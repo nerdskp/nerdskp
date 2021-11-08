@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Surya
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👋 やあ
 
 <!---
 nerdskp/nerdskp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
